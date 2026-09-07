@@ -1,6 +1,6 @@
 # Console
 
-VB6 working copy of `Console` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `VBConsole.exe`. `VersionCompanyName`: Chips, Bits and Bytes.
+Chips, Bits and Bytes VB6 console demo (`VBConsole.exe` / `VBConsole.vbp`): Win32 `AllocConsole` / `CreateConsoleScreenBuffer` / `WriteConsole` sample that prints Hello World to a console buffer. Open `VBConsole.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
